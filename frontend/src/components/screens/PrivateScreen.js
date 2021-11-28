@@ -32,8 +32,10 @@ const PrivateScreen = () => {
     <span className="error-message">{error}</span>
   ) : (
     <div>
-      <Navbar />
-      <Footer />
+      <div className="flex flex-col h-screen justify-between">
+        <Navbar />
+        <Footer />
+      </div>
     </div>
   );
 };

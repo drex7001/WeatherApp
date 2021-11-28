@@ -7,4 +7,6 @@
   background-image: url(../../img/background2blur.jpg);
   padding: 1.5rem;
   background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
