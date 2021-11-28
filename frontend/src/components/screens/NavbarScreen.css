@@ -1,0 +1,10 @@
+.nav_container {
+  background-color: coral;
+  margin-bottom: 0%;
+}
+
+.main_screen {
+  background-image: url(../../img/background2blur.jpg);
+  padding: 1.5rem;
+  background-repeat: no-repeat;
+}
